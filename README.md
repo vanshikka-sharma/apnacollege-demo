@@ -1,3 +1,3 @@
 # apnacollege-demo
-my first git repository
-authoe - vanshika sharma
+My first git repository
+Author - vanshika sharma
